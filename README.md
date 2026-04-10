@@ -45,6 +45,13 @@ If you are familiar with Docker and want to go the extra mile, you can container
 * **Backend:** Navigate to `/backend`, create a virtual environment, and install dependencies: `pip install -r requirements.txt`. Run with `uvicorn main:app --reload`.
 * **Frontend:** Navigate to `/frontend`, install dependencies with `npm install`, and start the development server with `npm start`. The application will be available at `http://localhost:4200`.
 
+## Documentation & Deliverables
+We have provided a `docs/` folder with two templates that you are required to fill:
+
+1.  **docs/REPORT.md**: Use this file to describe your technical approach, architectural choices, and how you handled the hydrological data challenges.
+2.  **docs/README.md**: Use this file to provide clear, step-by-step instructions on how to set up and run your specific implementation, including any additional dependencies or configurations you might have added.
+
+
 ## Submission
 Please host your code in a private repository (GitHub/GitLab) and share the access with us. We value a clean commit history.
 
