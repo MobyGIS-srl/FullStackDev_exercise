@@ -43,7 +43,7 @@ If you are familiar with Docker and want to go the extra mile, you can container
 
 ## Setup
 * **Backend:** Navigate to `/backend`, create a virtual environment, and install dependencies: `pip install -r requirements.txt`. Run with `uvicorn main:app --reload`.
-* **Frontend:** Navigate to `/frontend`, install dependencies: `npm install`. Run with `ng serve`.
+* **Frontend:** Navigate to `/frontend`, install dependencies with `npm install`, and start the development server with `npm start`. The application will be available at `http://localhost:4200`.
 
 ## Submission
 Please host your code in a private repository (GitHub/GitLab) and share the access with us. We value a clean commit history.
